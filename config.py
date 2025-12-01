@@ -3,7 +3,7 @@ import os
 
 # Ultra-Fine-Grained Datasets roots
 # TODO change datasets root
-Root = "/your_ugvc_dataset_root"
+Root = "/data/pun2/pun2/NCD_dataset"
 SoyAgeingRoot = os.path.join(Root, "SoyAgeing")
 UltraRoot = {
     "SoyAgeing-R1": os.path.join(SoyAgeingRoot, "SoyAgeing-R1/R1"),
